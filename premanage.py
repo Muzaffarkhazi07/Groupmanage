@@ -28,7 +28,7 @@ from aiogram.types import (
 )
 
 OWNER_ID = 5839586443
-BOT_TOKEN = "9181621589:AAELQUK9MNhv-J_4C0-wIJBlhOjiD_ZngBw"
+BOT_TOKEN = "9126895622:AAG6Qfj1JePewH8E1xomzVc1zKS8wLiul30"
 DB_PATH = Path("premanage.db")
 BACKUP_DIR = Path("backups")
 logging.basicConfig(level=logging.INFO, format="%(asctime)s | %(levelname)s | %(message)s")
