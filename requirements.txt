@@ -1,2 +1,0 @@
-aiogram==3.18.0
-aiosqlite
