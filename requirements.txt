@@ -1,1 +1,2 @@
-aiogram==3.18.0 and aiosqlite
+aiogram==3.18.0
+aiosqlite
