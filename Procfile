@@ -1,1 +1,0 @@
-worker: python premanage.py
